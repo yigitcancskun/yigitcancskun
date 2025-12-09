@@ -24,10 +24,9 @@
 
 ## Projects & Contributions
 
-* **[My Kaggle Projects]:** You can view my projects on Kaggle about most of about ML.
+* **[My Kaggle Projects]:** You can view my projects on Kaggle about most of about ML. https://www.kaggle.com/yiitcancokun
 
-* **[Project Name 2]:** Soon!
-
+* **[Project Name 2]:** Soon
 ---
 
 ## Let's Connect!
