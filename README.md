@@ -1,38 +1,23 @@
-# I'm yigitcan but u can say yiit too.
+# Hi there, I'm Yiğit! 👋
 
-### I'm defining myself: ML Models & Data Engineering Enthuasist
+I'm a **Junior Statistics Student** at **Yıldız Technical University**, passionate about transforming raw data into actionable insights.
 
-#### BSc. Statistics @ Yildiz Technical University
+My journey is driven by a clear goal: mastering **Machine Learning** concepts and eventually evolving into an **MLOps Engineer**. I believe in understanding the "why" behind the code, not just the syntax.
 
-## my interests:
+### 🔭 Current Status
+- 💼 **Intern** at **Otokoç Automotive** (Technology Solutions Dept.) focused on Data Visualization & Power BI.
+- 🎓 **Trainee** at **Milli Teknoloji Akademisi** (AI Specialization Program), deep diving into CS fundamentals (C, Java, OOP).
+- 📊 **Kaggle Contributor**, actively participating in competitions to sharpen my modeling skills.
 
-* **Core Study:** Statistics and Data Science (My major)
-* **Machine Learning (ML):** Exploring predictive models and algorithms.
-* **Data Manipulation:** Trying to examine existing features and adding new ones.
+### 🛠 Tech Stack
+- **Core:** Python (Pandas, NumPy, Scikit-learn), SQL
+- **Learning:** C, Java, Data Structures & Algorithms
+- **Tools:** Power BI, Git, Linux (Zorin OS user 🐧)
+
+### 🌱 What I'm working on
+- Developing end-to-end ML pipelines.
+- Exploring **Credit Risk Modeling** and financial data analysis.
+- Optimizing code performance and learning memory management with low-level languages.
+
 ---
-
-## Skills & Tools
-
-| Category | Tools/Languages |
-| :--- | :--- |
-| **Languages** | Python, R, SQL |
-| **ML/Data/AI** | Pandas, NumPy, Scikit-learn, TensorFlow, Keras |
-| **Databases** | [MySQL, Excel] |
-| **Other** | I'm trying to learn PowerBI during these days. |
-
----
-
-## Projects & Contributions
-
-* **[My Kaggle Projects]:** You can view my projects on Kaggle about most of about ML. https://www.kaggle.com/yiitcancokun
-
-* **[Project Name 2]:** Soon
----
-
-## Let's Connect!
-
-I'm open to discussing data projects, internships, and collaborations.
-
-* **LinkedIn:** [https://www.linkedin.com/in/yigitcancskun/]
-* **Email:** [yigitcancskun@gmail.com]
-* **Personal Website / Portfolio:** [I will add soon!]
+[🌐 Portfolio](https://yigitcancoskun.com) • [LinkedIn](INSERT_LINKEDIN_URL) • [Kaggle](INSERT_KAGGLE_URL)
