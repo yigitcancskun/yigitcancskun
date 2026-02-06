@@ -10,7 +10,7 @@ My journey is driven by a clear goal: mastering **Machine Learning** concepts an
 - 📊 **Kaggle Contributor**, actively participating in competitions to sharpen my modeling skills.
 
 ### 🛠 Tech Stack
-- **Core:** Python (Pandas, NumPy, Scikit-learn), SQL
+- **Core:** Python (Pandas, NumPy, Scikit-learn), SQL, R
 - **Learning:** C, Java, Data Structures & Algorithms
 - **Tools:** Power BI, Git, Linux (Zorin OS user 🐧)
 
