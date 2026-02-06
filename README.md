@@ -20,4 +20,4 @@ My journey is driven by a clear goal: mastering **Machine Learning** concepts an
 - Optimizing code performance and learning memory management with low-level languages.
 
 ---
-[🌐 Portfolio](https://yigitcancoskun.com) • [LinkedIn](INSERT_LINKEDIN_URL) • [Kaggle](INSERT_KAGGLE_URL)
+[🌐 Portfolio](https://yigitcancoskun.com) • [LinkedIn](https://www.linkedin.com/in/yigitcancskun/) • [Kaggle](https://www.kaggle.com/yiitcancokun)
