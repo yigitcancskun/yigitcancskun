@@ -15,9 +15,9 @@ My journey is driven by a clear goal: mastering **Machine Learning** concepts an
 - **Tools:** Power BI, Git, Linux (Zorin OS user 🐧)
 
 ### 🌱 What I'm working on
-- Developing end-to-end ML pipelines.
-- Exploring **Credit Risk Modeling** and financial data analysis.
-- Optimizing code performance and learning memory management with low-level languages.
+- Training my Power BI Dashboard design skills.
+- Learning data structures and algorithms on C and Java.
+- Studying web scraping with advanced tools for my new project in portfolio.
 
 ---
 [🌐 Portfolio](https://yigitcancoskun.com) • [LinkedIn](https://www.linkedin.com/in/yigitcancskun/) • [Kaggle](https://www.kaggle.com/yiitcancokun)
