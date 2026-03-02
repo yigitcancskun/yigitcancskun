@@ -1,4 +1,4 @@
-## My name is Yigitcan Coskun.
+## YIGITCAN COSKUN - JUNIOR ML ENGINEER
 
 I am a 3rd-year Statistics student at Yıldız Technical University. My goal is to graduate successfully, build a solid foundation as a **Machine Learning Engineer**, and eventually transition into **MLOps** as I gain more experience. I am passionate about extracting value from data and am dedicated to continuously improving my skills in the machine learning ecosystem, with a strong focus on tools like Python and SQL.
 
