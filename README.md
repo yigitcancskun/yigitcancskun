@@ -1,10 +1,10 @@
-## YIGITCAN COSKUN - JUNIOR ML ENGINEER
+## Yigitcan Coskun - Junior ML Engineer
 
 I am a 3rd-year Statistics student at Yıldız Technical University. My goal is to graduate successfully, build a solid foundation as a **Machine Learning Engineer**, and eventually transition into **MLOps** as I gain more experience. I am passionate about extracting value from data and am dedicated to continuously improving my skills in the machine learning ecosystem, with a strong focus on tools like Python and SQL.
 
 ---
 
-### 🚀 My Skill Roadmap (ML Engineer)
+### My Skill Roadmap (ML Engineer)
 
 **1. Fundamentals & Programming**
 * Statistics & Probability: ★★★★☆
