@@ -1,23 +1,30 @@
-# Hi there, I'm Yiğit! 👋
+## My name is Yigitcan Coskun.
 
-I'm a **Statistics Student** at **Yıldız Technical University**, passionate about transforming raw data into actionable insights.
-
-My journey is driven by a clear goal: mastering **Machine Learning** concepts and eventually evolving into an **ML Engineer**. I believe in understanding the "why" behind the code, not just the syntax.
-
-### 🔭 Current Status
-- 💼 **Intern** at **Otokoç Automotive** (IT Dept.) focused on Data Analytics & Business Intelligence.
-- 🎓 **Trainee** at **Milli Teknoloji Akademisi** (AI Specialization Program), deep diving into CS fundamentals (C, Java, OOP).
-- 📊 **Kaggle Contributor**, actively participating in competitions to sharpen my modeling skills.
-
-### 🛠 Tech Stack
-- **Core:** Python (Pandas, NumPy, Scikit-learn), SQL, R
-- **Learning:** Data Structures & Algorithms, PyTorch, UI & UX Design on Figma
-- **Tools:** Power BI, Git, Linux (Zorin OS user 🐧)
-
-### 🌱 What I'm working on
-- Training my Power BI Dashboard design skills.
-- Learning data structures and algorithms on Python.
-- Studying web scraping with advanced tools for my new project in portfolio.
+I am a 3rd-year Statistics student at Yıldız Technical University. My goal is to graduate successfully, build a solid foundation as a **Machine Learning Engineer**, and eventually transition into **MLOps** as I gain more experience. I am passionate about extracting value from data and am dedicated to continuously improving my skills in the machine learning ecosystem, with a strong focus on tools like Python and SQL.
 
 ---
-[🌐 Portfolio](https://yigitcancoskun.com) • [LinkedIn](https://www.linkedin.com/in/yigitcancskun/) • [Kaggle](https://www.kaggle.com/yiitcancokun)
+
+### 🚀 My Skill Roadmap (ML Engineer)
+
+**1. Fundamentals & Programming**
+* Statistics & Probability: ★★★★☆
+* Python: ★★★★☆
+* SQL (MySQL, MSSQL): ★★☆☆☆
+* Data Structures, Algorithms & OOP: ★★☆☆☆
+
+**2. Data Manipulation & Business Intelligence**
+* Exploratory Data Analysis & Data Cleaning (Pandas, NumPy): ★★★★☆
+* Data Visualization (Power BI, Matplotlib): ★★★☆☆
+
+**3. Machine Learning & Artificial Intelligence**
+* Traditional Machine Learning (Scikit-Learn): ★★★☆☆
+* AI Agents & LLM Integrations: ★★★☆☆
+* Deep Learning: ★★☆☆☆
+
+**4. Software Engineering & MLOps Fundamentals**
+* Version Control & CI/CD Pipelines (Git, Azure DevOps): ★★☆☆☆
+* Model Deployment: ★☆☆☆☆
+* Containerization (Docker, Kubernetes): ★☆☆☆☆
+
+> **Note on Proficiency Levels:** These star ratings are self-assessed relative to the industry expectations for a **Junior/Entry-Level Machine Learning Engineer**. They highlight my strong academic foundation and practical experience in core programming and data manipulation (★★★★☆), my working knowledge of ML tools (★★★☆☆), and the areas in MLOps and deployment (★☆☆☆☆ - ★★☆☆☆) where I am actively expanding my expertise for my long-term career goals.
+---
