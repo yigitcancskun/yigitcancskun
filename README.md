@@ -17,7 +17,7 @@ Building toward ML Engineer → MLOps Engineer
 ```
 Languages     Python · SQL (MySQL, MSSQL) · C · Java
 ML/Data       scikit-learn · pandas · numpy · LangChain · LangGraph
-Infra         Azure Databricks · Microsoft Fabric · Docker · Git · Linux
+Infra         Docker · Git · Linux
 BI            Power BI · Azure DevOps
 ```
 
@@ -27,7 +27,7 @@ BI            Power BI · Azure DevOps
 
 | Project | What it is |
 |---|---|
-| **Lumina** | AI platform connecting Turkish women artisans to international buyers — FastAPI + ChromaDB + GPT-4, built at Techstars Women Istanbul Hackathon |
+| **Lumina** | AI platform connecting Turkish women artisans to international buyers — FastAPI + ChromaDB + GPT-5.4, built at Techstars Women Istanbul Hackathon |
 | **CS2 Match Analysis** | Esports data analysis that got me recruitment offers from pro teams |
 | **Housing Prices** | Top 1% on Kaggle |
 
