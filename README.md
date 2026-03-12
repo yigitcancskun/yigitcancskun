@@ -41,6 +41,8 @@ BI            Power BI · Azure DevOps
 
 ---
 
+[![Yiğitcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitcancskun)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Links
 
 🌐 [yigitcancoskun.com](https://yigitcancoskun.com) · 💼 [LinkedIn](https://linkedin.com/in/yigitcancoskun)
