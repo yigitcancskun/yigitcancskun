@@ -1,21 +1,21 @@
 # Yiğitcan Coşkun
 
 Statistics @ Yıldız Technical University · Istanbul  
-Building toward ML Engineer → MLOps Engineer
+Data Scientist -> Machine Learning Engineer
 
 ---
 
 ### What I'm doing
 
-- Grinding DSA daily — one problem minimum, no passive watching
-- Scraping a dataset for Turkish Coding Finetuned LLM
+- developing a AI voice assistant's dashboard platform
+- building cisimcik.com - a finetuned slm family for turkish -
 
 ---
 
 ### Stack
 
 ```
-Languages     Python · SQL (MySQL, MSSQL) · C · Java
+Languages     Python · SQL 
 ML/Data       scikit-learn · pandas · numpy · LangChain · LangGraph
 Infra         Docker · Git · Linux
 BI            Power BI · Azure DevOps
@@ -28,15 +28,14 @@ BI            Power BI · Azure DevOps
 | Project | What it is |
 |---|---|
 | **Lumina** | AI platform connecting Turkish women artisans to international buyers — FastAPI + ChromaDB + GPT-5.4, built at Techstars Women Istanbul Hackathon |
-| **CS2 Match Analysis** | Esports data analysis that got me recruitment offers from pro teams |
-| **Housing Prices** | Top 1% on Kaggle |
+| **cisimcik and cisimcik delta** | cisimcik is a finetuned slm model based on qwen3.5 9b, we are creating cisimcik delta, which is a dataset builder platform for dataset finders all around the world. |
 
 ---
 
 ### Numbers
 
 - 🥇 Kaggle Top 1% — Housing Prices Competition
-- ⚙️ Techstars Startup Weekend — Project & Technical & Design Lead
+- ⚙️ Techstars Startup Weekend Top 4 — Project & Technical & Design Lead
 - 📈 GPA: 3.11 / 4.00
 
 ---
