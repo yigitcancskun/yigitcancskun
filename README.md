@@ -8,7 +8,7 @@ Data Scientist -> Machine Learning Engineer
 ### What I'm doing
 
 - developing a AI voice assistant's dashboard platform
-- building cisimcik.com - a finetuned slm family for turkish -
+- building cisimcik.com - a finetuned slm family for turkish language -
 
 ---
 
