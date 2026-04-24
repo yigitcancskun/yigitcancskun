@@ -7,7 +7,7 @@ Data Scientist -> Machine Learning Engineer
 
 ### What I'm doing
 
-- developing a AI voice assistant's dashboard platform
+- AI Engineer Intern at MANK Technologies (Voice AI)
 - building cisimcik.com - a finetuned slm family for turkish language -
 
 ---
@@ -47,5 +47,3 @@ BI            Power BI · Azure DevOps
 🌐 [yigitcancoskun.com](https://yigitcancoskun.com) · 💼 [LinkedIn](https://linkedin.com/in/yigitcancoskun)
 
 ---
-
-*"There are no two words in the English language more harmful than 'good job'."*
