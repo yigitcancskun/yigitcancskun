@@ -15,10 +15,9 @@ Data Scientist -> Machine Learning Engineer
 ### Stack
 
 ```
-Languages     Python · SQL 
-ML/Data       scikit-learn · pandas · numpy · LangChain · LangGraph
-Infra         Docker · Git · Linux
-BI            Power BI · Azure DevOps
+Languages     Python · SQL · C
+ML/Data       PyTorch · scikit-learn · pandas · numpy · LangChain · LangGraph
+Infra         Docker · Git · Linux (Zorin OS User)
 ```
 
 ---
