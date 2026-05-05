@@ -26,20 +26,18 @@ Infra         Docker · Git · Linux (Zorin OS User)
 
 | Project | What it is |
 |---|---|
-| **Lumina** | AI platform connecting Turkish women artisans to international buyers — FastAPI + ChromaDB + GPT-5.4, built at Techstars Women Istanbul Hackathon |
 | **cisimcik and cisimcik delta** | cisimcik is a finetuned slm model based on qwen3.5 9b, we are creating cisimcik delta, which is a dataset builder platform for dataset finders all around the world. |
-
+| **fusion** | social media manipulating content detector machine learning model calculated by myself. |
 ---
 
 ### Numbers
 
 - 🥇 Kaggle Top 1% — Housing Prices Competition
+- 🥉 3rd place in Inter-University Datathon "dataleague.dev"
 - ⚙️ Techstars Startup Weekend Top 4 — Project & Technical & Design Lead
 - 📈 GPA: 3.11 / 4.00
 
 ---
-
-[![Yiğitcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitcancskun)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links
 
