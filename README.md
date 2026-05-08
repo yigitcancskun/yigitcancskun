@@ -5,6 +5,8 @@ Data Scientist -> Machine Learning Engineer
 
 ---
 
+![Profil Görüntülenme Sayısı](https://komarev.com/ghpvc/?username=yigitcancskun&label=Profile%20views&color=0e75b6&style=flat)
+
 ### What I'm doing
 
 - AI Engineer Intern at MANK Technologies (Voice AI)
