@@ -9,8 +9,8 @@ Data Scientist -> Machine Learning Engineer
 
 ### What I'm doing
 
-- AI Engineer Intern at MANK Technologies (Voice AI)
-- building cisimcik.com - a finetuned slm family for turkish language -
+- Data Science Intern at Mercedes-Benz Truck Finance (Turkey)
+- building cisimcik - a finetuned slm family for turkish language -
 
 ---
 
